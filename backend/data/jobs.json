@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sample-1",
+    "company": "TechNova",
+    "role": "Full Stack Developer Intern",
+    "status": "Applied",
+    "appliedDate": "2026-07-17",
+    "interviewDate": "",
+    "notes": "Applied through campus placement portal.",
+    "createdAt": "2026-07-17T10:00:00.000Z"
+  },
+  {
+    "id": "sample-2",
+    "company": "CodeWorks",
+    "role": "Frontend Developer",
+    "status": "Interview",
+    "appliedDate": "2026-07-12",
+    "interviewDate": "2026-07-20",
+    "notes": "Prepare React and JavaScript interview questions.",
+    "createdAt": "2026-07-12T10:00:00.000Z"
+  }
+]
